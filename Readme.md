@@ -48,9 +48,11 @@ The Streamlit web app `app.py` allows users to input car details including compa
 3. The app will display the predicted price based on the entered details.
 
 ## Screenshot 1
-![1](https://github.com/Rajkumar0819/CarPricePrediction/assets/113299030/f6007c26-f278-4fb3-8ed0-2535faa0a793)
+![1](https://github.com/Rajkumar0819/CarPricePrediction/assets/113299030/71f9e967-1b21-4658-a233-e76830e3d880)
+
 
 ## Screenshot 2
-![2](https://github.com/Rajkumar0819/CarPricePrediction/assets/113299030/56bb5fb1-6a9d-4429-a995-6d2fb4c7fc11)
+![1](https://github.com/Rajkumar0819/CarPricePrediction/assets/113299030/dfe531fc-02c8-4f07-aaa8-c6bd832f5baf)
+
 
 
