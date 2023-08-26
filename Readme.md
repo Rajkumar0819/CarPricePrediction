@@ -15,8 +15,7 @@ This project aims to predict car prices using a linear regression model. The pro
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/car-price-prediction.git
-```
+git clone https://github.com/Rajkumar0819/CarPricePrediction.git```
 
 Install the required dependencies:
 
@@ -49,6 +48,9 @@ The Streamlit web app `app.py` allows users to input car details including compa
 3. The app will display the predicted price based on the entered details.
 
 ## Screenshot 1
+![1](https://github.com/Rajkumar0819/CarPricePrediction/assets/113299030/f6007c26-f278-4fb3-8ed0-2535faa0a793)
+
 ## Screenshot 2
+![2](https://github.com/Rajkumar0819/CarPricePrediction/assets/113299030/56bb5fb1-6a9d-4429-a995-6d2fb4c7fc11)
 
 
