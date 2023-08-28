@@ -15,11 +15,12 @@ This project aims to predict car prices using a linear regression model. The pro
 Clone the repository:
 
 ```bash
-git clone https://github.com/Rajkumar0819/CarPricePrediction.git```
+git clone https://github.com/Rajkumar0819/CarPricePrediction.git
+```
 
 Install the required dependencies:
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
